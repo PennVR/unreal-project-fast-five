@@ -11,22 +11,22 @@ Santiago Buenahora, Edward Cai, Alexander Chan, Davin Hazard, Anosha Minai
   * Shoot arrow (with button): change projectile to bow object ~ 2 hours
   * Shoot arrow (with motion): detect when the arrow is pulled back on the Vive controller and then shoot when it is let go ~ 10 hours
   * Make VR ready: test with Vive headset to make sure it “feels right” for VR ~4 hours
-2. Teleportation: 
+2. Teleportation:
   * Change arrows: add option to change arrows that teleport instead of damaging the opponent ~ 4 hours
-  * Teleportation arrow: implement something similar to the class demo with option of confirmation ~ 2 hours. 
-  * Condition Testing: Set conditions for valid teleportation areas ~ 3 hours. 
+  * Teleportation arrow: implement something similar to the class demo with option of confirmation ~ 2 hours.
+  * Condition Testing: Set conditions for valid teleportation areas ~ 3 hours.
   * Make VR ready: add camera effects to make sure it doesn’t cause motion sickness ~ 3 hours
-3. Game Mechanics: 
+3. Game Mechanics:
   * Random power-ups: Create power-ups (possibly large arrow, explosives, slow) ~ 12 hours
   * Additional arrow types: bundled with above task
   * Radar and scatter arrow (like Hanzo’s) ~ 4 hours
   * Arrow disabling “special” arrows ~ 4 hours
   * Implementing win conditions: keep track of health and lives. End game when conditions are met ~ 4 hours
     *Time-based (most kills wins)
-4. VR UX: 
+4. VR UX:
   * Haptic feedback: vibrate controller when shoot arrow, vibrate controller when hit ~ 2 - 4 hours (no idea how to do this)
   * Visual feedback when hit ~ 2 - 4 hours
-  * Arrow color switch: Change colors of arrows ~ 2 hours. 
+  * Arrow color switch: Change colors of arrows ~ 2 hours.
   * Scoreboard
   * Multiplayer:
 5. TOTAL: ~40 hours
@@ -36,8 +36,8 @@ Santiago Buenahora, Edward Cai, Alexander Chan, Davin Hazard, Anosha Minai
 1. Santiago Buenahora: game environment, teleportation
 2. Edward Cai: bow, shoot arrows, game environment
 3. Alexander Chan: game mechanics, level design
-4. Davin Hazard: VR UX, game environment, level design 
-5. Anosha Minai:
+4. Davin Hazard: VR UX, game environment, level design
+5. Anosha Minai: game mechanics, level design
 
 ## Mechanics & Visual Style:
 
@@ -47,7 +47,7 @@ Santiago Buenahora, Edward Cai, Alexander Chan, Davin Hazard, Anosha Minai
 
 ## Timeline:
 
-1. Alpha Mechanic Demo (2/16/17 @ 1:30PM): 
+1. Alpha Mechanic Demo (2/16/17 @ 1:30PM):
  * Basic arrow shooting with controller
  * Teleportation with VR ready camera effects
  * Some additional arrow types
