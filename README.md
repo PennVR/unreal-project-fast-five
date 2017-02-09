@@ -1,6 +1,7 @@
 # unreal-project-fast-five
 
 CIS568 Project 2 Work Plan
+
 Santiago Buenahora, Edward Cai, Alexander Chan, Davin Hazard, Anosha Minai
 
 ## Technical Requirements Time Estimate:
@@ -31,29 +32,33 @@ Santiago Buenahora, Edward Cai, Alexander Chan, Davin Hazard, Anosha Minai
 5. TOTAL: ~40 hours
 
 ## Teamwork Breakdown:
+
 1. Santiago Buenahora: game environment, teleportation
 2. Edward Cai: bow, shoot arrows, game environment
 3. Alexander Chan: game mechanics, level design
 4. Davin Hazard: VR UX, game environment, level design 
 5. Anosha Minai:
 
-Mechanics & Visual Style:
-Win conditions: 3 lives, 100 health or time-based
-Location based damage (headshots are OHKO, etc)
-World appearance: cartoonish, with buildings (like Team Fortress: https://usercontent2.hubstatic.com/12810491_f520.jpg)
-Timeline:
-Alpha Mechanic Demo (2/16/17 @ 1:30PM): 
-Basic arrow shooting with controller
-Teleportation with VR ready camera effects
-Some additional arrow types
-Arrow switching
-Basic “shooting gallery” level
-Visual/haptic feedback
-Beta Mechanic Demo (2/21/17 @ 1:30PM):
-Polished arrow shooting
-Polished teleportation
-Win conditions
-Basic multiplayer
-Preliminary full level
-UI
-Final Demo 2/28/17 @ 1:30PM: Everything should work!
+## Mechanics & Visual Style:
+
+1. Win conditions: 3 lives, 100 health or time-based
+2. Location based damage (headshots are OHKO, etc)
+3. World appearance: cartoonish, with buildings (like Team Fortress: https://usercontent2.hubstatic.com/12810491_f520.jpg)
+
+## Timeline:
+
+1. Alpha Mechanic Demo (2/16/17 @ 1:30PM): 
+ * Basic arrow shooting with controller
+ * Teleportation with VR ready camera effects
+ * Some additional arrow types
+ * Arrow switching
+ * Basic “shooting gallery” level
+ * Visual/haptic feedback
+2. Beta Mechanic Demo (2/21/17 @ 1:30PM):
+ * Polished arrow shooting
+ * Polished teleportation
+ * Win conditions
+ * Basic multiplayer
+ * Preliminary full level
+ * UI
+3. Final Demo 2/28/17 @ 1:30PM: Everything should work!
