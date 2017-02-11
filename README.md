@@ -22,7 +22,7 @@ Santiago Buenahora, Edward Cai, Alexander Chan, Davin Hazard, Anosha Minai
   * Radar and scatter arrow (like Hanzo’s) ~ 4 hours
   * Arrow disabling “special” arrows ~ 4 hours
   * Implementing win conditions: keep track of health and lives. End game when conditions are met ~ 4 hours
-    *Time-based (most kills wins)
+  * Time-based (most kills wins)
 4. VR UX:
   * Haptic feedback: vibrate controller when shoot arrow, vibrate controller when hit ~ 2 - 4 hours (no idea how to do this)
   * Visual feedback when hit ~ 2 - 4 hours
@@ -35,9 +35,8 @@ Santiago Buenahora, Edward Cai, Alexander Chan, Davin Hazard, Anosha Minai
 
 1. Santiago Buenahora: game environment, teleportation
 2. Edward Cai: bow, shoot arrows, game environment
-3. Alexander Chan: game mechanics, level design
-4. Davin Hazard: VR UX, game environment, level design
-5. Anosha Minai: game mechanics, level design
+3. Alexander Chan: game mechanics, level design, bow/arrows, UI/UX
+4. Anosha Minai: game mechanics, level design
 
 ## Mechanics & Visual Style:
 
