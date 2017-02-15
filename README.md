@@ -1,6 +1,6 @@
 ## Implemented Features:
 1. Replace bullet w/arrow
-2. R button toggles between regular and teleportation arrows (teleportation arrows just bounce off boxes for now. Regular arrows stick to boxes and paints "paintable boxes".
+2. R button toggles between regular and teleportation arrows. Teleportation arrows just bounce off boxes for now. Regular arrows stick to boxes and paints "paintable boxes".
 
 # unreal-project-fast-five
 
