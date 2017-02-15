@@ -1,8 +1,3 @@
-## Implemented Features:
-1. Replace bullet w/arrow
-2. R button toggles between regular and teleportation arrows. Regular arrows stick to boxes and paints "paintable boxes".
-3. While using teleportation arrows the actor will teleport to any component that it hits that has the 'teleportable' tag. The floor is the only component that has this tag (for now).
-
 # unreal-project-fast-five
 
 CIS568 Project 2 Work Plan
