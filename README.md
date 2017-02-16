@@ -47,10 +47,10 @@ Santiago Buenahora, Edward Cai, Alexander Chan, Davin Hazard, Anosha Minai
 ## Timeline:
 
 1. Alpha Mechanic Demo (2/16/17 @ 1:30PM):
- * Basic arrow shooting with controller
- * Teleportation with VR ready camera effects
+ * ~~Basic arrow shooting with controller~~
+ * ~~Teleportation~~ with VR ready camera effects
  * Some additional arrow types
- * Arrow switching
+ * ~~Arrow switching~~
  * Basic “shooting gallery” level
  * Visual/haptic feedback
 2. Beta Mechanic Demo (2/21/17 @ 1:30PM):
