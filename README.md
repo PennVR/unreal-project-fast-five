@@ -1,4 +1,5 @@
-# unreal-project-fast-five
+# La Va Land
+> four person fast-five
 
 CIS568 Project 2 Work Plan
 
@@ -61,3 +62,38 @@ Santiago Buenahora, Edward Cai, Alexander Chan, Davin Hazard, Anosha Minai
  * Preliminary full level
  * UI
 3. Final Demo 2/28/17 @ 1:30PM: Everything should work!
+
+## Questions
+
+### Name and Project Name
+La Va Land
+
+### A link to a demo of your game on YouTube (you will be expected to make a good video - this is important for both resume purposes and in general for visual applications)
+[Video!](https://youtu.be/4Ezl-UG5XNw)
+
+### Techniques used, and why those techniques.
+- Steamsworks
+- Lava (death upon player step + animated material)
+- Respawn to random location
+- Lobby with spheres
+
+### How to play (using a controller or HMD)
+- The player starts in a Game Lobby, where they can either host a game by shooting the "Host Games" sphere or look for an existing one by shooting the "Find Servers" sphere. If they opt to find an existing session, the lobby populates with smaller "Session" spheres which can be shot to join a session. In order for both players to join the same game via different computers they need to write ""
+- Once in the Lava Level, the player needs to shoot a team sphere to join either the red or blue teams.
+
+### When in VR mode, did you feel any motion sickness? Why and why not?
+Not really, only when falling off the tower
+
+### What was the hardest part of the assignment?
+Among the difficulties
+- Configuring multiplayer (both lobby and replication)
+- Modeling the towers in a navigable way
+
+### What do you wish you’d done differently?
+- Music
+- More lava
+- Death animation
+- More visuals on scene
+
+### What do you wish we had done differently?
+- A bit more time?
