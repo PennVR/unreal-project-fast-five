@@ -1,4 +1,4 @@
-# La Va Land
+﻿# La Va Land
 > four person fast-five
 
 CIS568 Project 2 Work Plan
@@ -73,28 +73,29 @@ La Va Land
 [Multiplayer Demo](https://youtu.be/ih8ww9oYQ2o)
 
 ### Techniques used, and why those techniques.
-- Steamsworks
-- Lava (death upon player step + animated material)
-- Respawn to random location
-- Lobby with spheres
+- Lava: Animated material creating a more realistic look and feel.
+- Lobby with spheres: Use the same game mechanic (shooting an arrow) to host / join games, creating continuity.
+- Transporting through teleportation with fade: done to allow the player to navigate the game with minimal motion sickness.
+- Lava rising: create urgency and incentivizes players to move / win quickly
 
 ### How to play (using a controller or HMD)
 - The player starts in a Game Lobby, where they can either host a game by shooting the "Host Games" sphere or look for an existing one by shooting the "Find Servers" sphere. If they opt to find an existing session, the lobby populates with smaller "Session" spheres which can be shot to join a session. In order for both players to join the same game via different computers they need to write ""
 - Once in the Lava Level, the player needs to shoot a team sphere to join either the red or blue teams.
+- Players compete to reach the top of the towers in order to capture them. Capturing a tower earns players points for the longer that the tower belongs to them. Players compete to be the first to reach 20 points!
+- As a twist, Players are also racing against time - the lava is slowly rising and if it hits either player before one has won, then they will die!
 
 ### When in VR mode, did you feel any motion sickness? Why and why not?
-Not really, only when falling off the tower
+The main motion sickness issue is when players fall off teleport tabs, which can happen sometimes if the arrow hits the pads in a particular way. 
 
 ### What was the hardest part of the assignment?
-Among the difficulties
+Among the difficulties:
 - Configuring multiplayer (both lobby and replication)
-- Modeling the towers in a navigable way
+- Modeling the towers / teleport tabs in a navigatable way - The goal of the level design is to make sure that players are never stuck in a postion where they can't move. However, there are many possible combinations of ways that a player can navigate. Through extensive playtesting, we were able to capture and hopefully guard against most scenarios, but there is always the possibility that there are scenarios that weren't caught. 
 
 ### What do you wish you’d done differently?
-- Music
-- More lava
-- Death animation
-- More visuals on scene
+When we orginally came up with the tower-capturing idea, we decided that the best way to reach the top of the tower would be by shooting a "teleport cube" that, upon hitting, would transport the player to the position underneath the cube. As we increased the complexity of our towers, we kept the same paradigm. However, when
+we made the switch to having the lava rise (and therefore created a game in which the players are climbing much more) then the game became much more complex and navigation became more of an issue. If there are too many objects near a player, it limits their field of view and makes it more difficult for them to navigate. We think it 
+would have been better to reduce the number of objects around the towers, perhaps controlling the player's teleport location more. This issue definitely highlighted the challenges of movement in VR.
 
 ### What do you wish we had done differently?
-- A bit more time?
+It would have been nice to have more introduction to Blueprints and Materials, the basics of Unreal, because it took a long time to understand even how to get help. There is so much that is possible with Unreal that it makes sense that we just have to dive in to learn, but a litte more guidance would have been great.
